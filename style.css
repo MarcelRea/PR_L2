@@ -1,3 +1,6 @@
 body{
 	background-color:gold;
 }
+.container{
+	border: solid black 2px;
+}
