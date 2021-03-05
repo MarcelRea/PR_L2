@@ -4,3 +4,7 @@ body{
 .container{
 	border: solid black 2px;
 }
+.img {
+	width: 100px;
+	height: auto;
+}
