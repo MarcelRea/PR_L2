@@ -1,10 +1,27 @@
 body{
-	background-color:gold;
+	background-color: gold;
 }
-.container{
-	border: solid black 2px;
+
+p{
+	font-size: 20px;
 }
-.img {
-	width: 100px;
-	height: auto;
+
+.lewy{
+	float: left;
+	width: 50%;
+}
+
+.prawy{
+	float: right;
+	width: 50%;
+}
+
+ul li{
+	display: inline;
+}
+
+.fot{
+	text-align:center;
+	float:left;
+    width:100%;
 }
